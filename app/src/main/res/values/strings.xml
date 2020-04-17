@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Math Brain Trainer</string>
+    <string name="play_again">play again</string>
+    <string name="correct_0">Correct: 0</string>
+    <string name="best_score">Best Score</string>
+    <string name="_60s">60s</string>
+    <string name="_150">150</string>
+    <string name="total_0">Total: 0</string>
+    <string name="_31">3</string>
+    <string name="_32">3</string>
+    <string name="_33">3</string>
+    <string name="_34">3</string>
+    <string name="_31_15">31+15</string>
+    <string name="start_button">start_button</string>
+    <string name="timer_icon">timer_icon</string>
+    <string name="math_brain_trainer">Math Brain Trainer</string>
+    <string name="instructions">Instructions: you will have simple sum questions and you have 1 minute to answer as many as you can.</string>
+</resources>

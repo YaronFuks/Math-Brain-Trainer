@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/allerta</item>
+        <item>@font/arbutus</item>
+        <item>@font/bevan</item>
+        <item>@font/bowlby_one</item>
+        <item>@font/bungee</item>
+        <item>@font/capriola</item>
+        <item>@font/carme</item>
+        <item>@font/courgette</item>
+    </array>
+</resources>
